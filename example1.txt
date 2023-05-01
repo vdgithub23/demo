@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+hii
+iam vineeth
+=======
 hi-dev
 hii
+>>>>>>> origin/master
